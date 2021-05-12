@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello World!
+**Welcome to my GitHub**!
 
-<!--
-**PaulaUzca/PaulaUzca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**My name is Paula Im 19 years old 👩‍💻**
 
-Here are some ideas to get you started:
+-🤩 Excited about programming stuff.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-💜 Always working on my website [Wild Potro Code](http://wildpotrocode.com/ "Wild Potro Code")
+
+-💻 Currently learning React
+
+-👌 Loving Javascript
+
+**My mantra is**
+
+-🧠 Make it but make it pink
+
