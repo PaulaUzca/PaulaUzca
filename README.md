@@ -11,7 +11,5 @@
 
 -👌 Loving Javascript
 
-**My mantra is**
-
--🧠 Make it but make it pink
+🧠 **My mantra**  Make it but make it pink
 
