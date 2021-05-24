@@ -7,9 +7,9 @@
 
 -💜 Always working on my website [Wild Potro Code](http://wildpotrocode.com/ "Wild Potro Code")
 
--💻 Currently learning React
+-💻 Currently learning Django
 
--👌 Loving Javascript
+- 💜 JavaScript
 
-🧠 **My mantra**  Make it but make it pink
+🧠 Make it but make it pink
 
