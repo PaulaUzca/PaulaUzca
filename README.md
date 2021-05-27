@@ -1,7 +1,7 @@
 # Hello World!
 **Welcome to my GitHub**!
 
-**My name is Paula Im 19 years old 👩‍💻**
+**My name is Paula and enjoy solving problems with a computer👩‍💻**
 
 - 🤩 Excited about programming stuff.
 
