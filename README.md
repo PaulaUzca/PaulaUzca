@@ -3,13 +3,13 @@
 
 **My name is Paula Im 19 years old 👩‍💻**
 
--🤩 Excited about programming stuff.
+- 🤩 Excited about programming stuff.
 
--💜 Always working on my website [Wild Potro Code](http://wildpotrocode.com/ "Wild Potro Code")
+- 💜 Always working on my website [Wild Potro Code](http://wildpotrocode.com/ "Wild Potro Code")
 
--💻 Currently learning Django
+- 💻 Currently learning Django and SQLite
 
 - 💜 JavaScript
 
-🧠 Make it but make it pink
+- 🧠 Make it but make it pink
 
