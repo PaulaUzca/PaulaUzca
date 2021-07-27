@@ -4,7 +4,7 @@
 **My name is Paula and I'm into programming stuff 👩‍💻**
 Here's some facts about me:
 
-- 🤖 I'm currently learning Arduino
+- 🤖 I'm currently learning Django
 - 🧨 I like JavaScript
 - 🐊 I love animals 
 - 🧠 I like making things pink
