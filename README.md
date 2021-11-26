@@ -1,12 +1,11 @@
 # Hello World!
 **Welcome to my GitHub**!
 
-**My name is Paula and I'm into programming stuff 👩‍💻**
-Here's some facts about me:
+**My name is Paula and here are some things about me 👩‍💻**
 
-- 🤖 I'm currently learning Django
-- 🧨 I like JavaScript
+- 🤖 Trying to figure out SpringBoot!
+- 🧨 I think JavaScript is pretty cool
 - 🐊 I love animals 
 - 🧠 I like making things pink
-- 🎥 I edit videos as a hobby
-- 💜 I'm always working on my personal blog [Wild Potro Code](http://wildpotrocode.com/ "Wild Potro Code")
+- 🎥 I like editing videos 
+- 💜 You can check out my personal blog [Wild Potro Code](http://wildpotrocode.com/ "Wild Potro Code")
